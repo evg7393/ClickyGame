@@ -1,0 +1,78 @@
+[
+
+
+  {
+    "id": 1,
+    "name": "Oscar the Grouch",
+    "image": "https://vignette.wikia.nocookie.net/muppet/images/c/c3/Oscar-can2.jpg/revision/latest?cb=20090819003837",
+    "quote": "Always start the day with a smile— that way you get it over with",
+    "firstappearancedate": "1969"
+  },
+  {
+    "id": 2,
+    "name": "Bert and Ernie",
+    "image": "https://aleteiaen.files.wordpress.com/2018/10/web3-sesame-street-bert-ernie-puppets-friends-facebook.jpg?quality=100&strip=all&w=620&h=310&crop=1",
+    "quote": "Friends always lend a helping hand. Friends are the kind of friends that understand...",
+    "firstappearancedate": "1969"
+  },
+  {
+    "id": 3,
+    "name": "Cookie Monster",
+    "image": "https://vignette.wikia.nocookie.net/muppet/images/0/08/CookieMonsterWaving.jpg/revision/latest?cb=20120128192952",
+    "quote": "C is for cookie, that's good enough for me.",
+    "firstappearancedate": "1969"
+  },
+  {
+    "id": 4,
+    "name": "Zoe",
+    "image": "https://vignette.wikia.nocookie.net/muppet/images/6/65/Zoetutu.jpg/revision/latest?cb=20150906142459",
+    "quote": "I am proud because I can spell my name.",
+    "firstappearancedate": "1993"
+  },
+  {
+    "id": 5,
+    "name": "Rosita",
+    "image": "https://vignette.wikia.nocookie.net/muppet/images/5/5e/Rosita2.jpg/revision/latest?cb=20130510184022",
+    "quote": "Bienvenidos a Sesame Street.",
+    "firstappearancedate": "1991"
+  },
+  {
+    "id": 6,
+    "name": "Elmo",
+    "image": "https://vignette.wikia.nocookie.net/muppet/images/5/5a/Elmo-elmo-elmo.jpg/revision/latest?cb=20110917000614",
+    "quote": "If life is fair why does roses have thorns.",
+    "firstappearancedate": "1972"
+  },
+  {
+    "id": 7,
+    "name": "Count von Count",
+    "image": "https://vignette.wikia.nocookie.net/muppet/images/2/22/CountVonCount.png/revision/latest?cb=20150116064552",
+    "quote": "Greetings! I am the Count. They call me the Count because I love to count things.",
+    "firstappearancedate": "1972"
+  },
+
+  {
+    "id": 8,
+    "name": "Snuffleupagus",
+    "image": "https://vignette.wikia.nocookie.net/muppet/images/f/fc/Character.snuffy.jpg/revision/latest?cb=20100405201116",
+    "quote": "What is it, Bird?",
+    "firstappearancedate": "1971"
+  },
+
+  {
+    "id": 9,
+    "name": "Grover",
+    "image": "https://vignette.wikia.nocookie.net/muppet/images/f/f7/GroverFullFigure2.png/revision/latest?cb=20190222025220",
+    "quote": "Where there is life, there is hope.",
+    "firstappearancedate": "1967"
+
+  },
+    {
+      "id": 10,
+      "name": "Big Bird",
+      "image": "https://vignette.wikia.nocookie.net/muppet/images/9/92/Bigbirdnewversion.png/revision/latest?cb=20120128201030",
+      "quote": "Everyone is unique, and different, and special.",
+      "firstappearancedate": "1969"
+    }
+  
+]
