@@ -21,7 +21,11 @@ class App extends Component {
   render() {
     return (
       <Wrapper>
+         <p>
+          <button className="btn btn-primary sm-lg">Restart</button>
+        </p>
         <Title>Sesame Street Friends</Title>
+
         {this.state.friends.map(friend => (
           <FriendCard
             removeFriend={this.removeFriend}
@@ -33,9 +37,15 @@ class App extends Component {
             firstappearancedate={friend.firstappearancedate}
           />
         ))}
+        <footer>
+<p>Created by: Eli Gonzalez <a href="https://github.com/evg7393">github</a>
+</p>
+</footer>
       </Wrapper>
     );
+    
   }
+  
 }
 
 export default App;
